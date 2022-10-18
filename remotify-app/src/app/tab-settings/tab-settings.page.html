@@ -1,0 +1,25 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Settings</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Settings</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <form [formGroup]="settingsForm" (ngSubmit)="submitForm()">
+    <ion-item>
+      <ion-label>PC IP-Address</ion-label>
+      <ion-input id="ip" type="ip" formControlName="ip"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label>Touchpad Sensitivity</ion-label>
+      <ion-input id="touchpadSensitivity" type="number" formControlName="touchpadSensitivity"></ion-input>
+    </ion-item>
+    <ion-button type="submit" [disabled]="!settingsForm.valid">submit</ion-button>
+  </form>
+</ion-content>
