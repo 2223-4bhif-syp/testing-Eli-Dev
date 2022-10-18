@@ -25,5 +25,5 @@ jobs:
       uses: manoelcampos/asciidoctor-ghpages-action@v2.2.4
       with:
         slides_build: true
-        slides_main_adoc_file: "slides.adoc"
+        slides_main_adoc_file: "slides"
         pdf_build: true
