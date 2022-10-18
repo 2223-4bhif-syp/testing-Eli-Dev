@@ -11,6 +11,7 @@ Sonarqube kann auch lokal mittels Docker gehosted werden. Der Command dazu ist: 
 === Features
 
 Sonarqube Analysiert den Code eines Projekts, dazu gehört das finden von:
+
 * Redundanzen
 * Angriffsstellen für Hacker
 * Code-Coverage (wie gut ist der Code mit Unit-Tests etc. getestet)

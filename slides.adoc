@@ -1,4 +1,4 @@
-= Kurzrede GSoft
-:author: Elias Gstallnig
+= Sonarqube
+:author: Sedad Sultanovic, Jona Krist, Elias Gstallnig
 :revealjsdir: cdn.jsdelivr.net/npm/reveal.js@3.9.2
 
