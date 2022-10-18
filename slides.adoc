@@ -2,3 +2,21 @@
 :author: Sedad Sultanovic, Jona Krist, Elias Gstallnig
 :revealjsdir: cdn.jsdelivr.net/npm/reveal.js@3.9.2
 
+== Infos
+
+* Review-Tool
+* Self-Managed
+
+=== Features
+
+* Redundanzen
+* Angriffsstellen für Hacker
+* Code-Coverage (wie gut ist der Code mit Unit-Tests etc. getestet)
+* Bugs 
+* Code Smells (Bad-Practices beim Programmieren)
+
+== Sonar-Solution
+
+image::Sonar_Solution.png[]
+
+== Live-Demo
