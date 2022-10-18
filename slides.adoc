@@ -1,0 +1,4 @@
+= Kurzrede GSoft
+:author: Elias Gstallnig
+:revealjsdir: cdn.jsdelivr.net/npm/reveal.js@3.9.2
+
