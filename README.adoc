@@ -2,7 +2,7 @@
 
 == Was ist Sonarqube
 
-Sonarqube ist eine self-managed Review-Software, dass heißt man muss es selbst hosten.
+Sonarqube ist eine self-managed Review-Software, man muss es also selbst hosten.
 
 === Docker
 
